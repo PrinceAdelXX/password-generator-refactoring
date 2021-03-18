@@ -1,1 +1,1 @@
-# password-generator-refactoring
+# Password-Generator-Refactor
