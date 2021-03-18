@@ -18,4 +18,4 @@ The Website Deployment URL is :
 https://princeadelxx.github.io/password-generator-refactoring/
 
 
- "<img src="/courses/526/files/486762/preview" alt="password generator demo" tabindex="0" role="button" aria-label="Click to Enlarge" style="max-width: 594px;">
+ "<img src="/courses/526/files/486762/preview" alt="password generator demo">
