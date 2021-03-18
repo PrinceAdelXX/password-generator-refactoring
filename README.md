@@ -17,3 +17,5 @@ The Website Deployment URL is :
 
 https://princeadelxx.github.io/password-generator-refactoring/
 
+
+![image](https://courses.bootcampspot.com/courses/526/files/486762/preview)
