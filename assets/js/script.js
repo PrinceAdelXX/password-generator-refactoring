@@ -7,8 +7,8 @@ var specialchar =["@", "#", "!", "$", "%", "&", "?", "*", "^"]
 
 function generatePassword() {
 var passwordLength = prompt("How Many Characters Do You Want?")
-if (passwordLength <10 || passwordLength >100){
-  alert("Password Must Be Between 10 and 100")
+if (passwordLength <8 || passwordLength >128){
+  alert("Password Must Be Between 8 and 128")
   return
 }
 var askLowerCase = confirm("Would You Like to Use Lower Case?")
